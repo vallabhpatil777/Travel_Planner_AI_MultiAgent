@@ -55,3 +55,9 @@ streamlit run main.py
 
 ## Snapshots 
 
+![image](https://github.com/user-attachments/assets/0f37c789-e9fd-49ff-8b83-4dfa844f5b6b)
+
+
+![image](https://github.com/user-attachments/assets/411d58f4-fe2d-45b6-ab92-dc9d83cc4310)
+
+
