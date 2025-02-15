@@ -2,7 +2,15 @@
 
 ## This project is AI travel planner web application built using Python, React, FastAPI, Langchain, LangGraph, Huggingface embeddings model and Groq API for LLM model access
 
+### Features 
 
+1. Used React as Frontend with axios, typescript and redux toolkit
+2. Used Python for MultiAgent utility
+3. Utilized Langchain and Langgraph for multiple agent state management
+4. FastAPI is used for API creation which takes city and interests as request body parameters.
+5. LLM model access gained through Groq API and model used is llama-3.3-70b-versatile
+
+   
 ## Steps
 
 ### 1. Clone the Repository
